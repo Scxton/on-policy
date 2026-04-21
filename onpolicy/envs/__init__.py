@@ -1,7 +1,3 @@
-
-import socket
-from absl import flags
-FLAGS = flags.FLAGS
-FLAGS(['train_sc.py'])
+"""Environment package for the trimmed MEC-DAG-focused training skeleton."""
 
 
